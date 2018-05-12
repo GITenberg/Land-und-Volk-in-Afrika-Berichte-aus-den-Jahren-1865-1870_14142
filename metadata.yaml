@@ -1,0 +1,32 @@
+_repo: Land-und-Volk-in-Afrika-Berichte-aus-den-Jahren-1865-1870_14142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rohlfs, Gerhard
+    birthdate: 1831
+    deathdate: 1896
+    gutenberg_agent_id: '5383'
+    url: http://www.gutenberg.org/2009/agents/5383
+    wikipedia: http://de.wikipedia.org/wiki/Gerhard_Rohlfs_%28Afrikaforscher%29
+description: ''
+gutenberg_bookshelf:
+- Anthropology
+- DE Sachbuch
+- Africa
+gutenberg_issued: '2004-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14142'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa -- Description and travel'
+- !lcsh 'Africa -- Social life and customs'
+title: Land und Volk in Afrika, Berichte aus den Jahren 1865-1870
+url: http://www.gutenberg.org/ebooks/14142
