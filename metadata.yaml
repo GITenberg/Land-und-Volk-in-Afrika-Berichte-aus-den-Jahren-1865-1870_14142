@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5383
     wikipedia: http://de.wikipedia.org/wiki/Gerhard_Rohlfs_%28Afrikaforscher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14142#Land-und-Volk-in-Afrika-Berichte-aus-den-Jahren-1865-1870
 gutenberg_bookshelf:
 - Anthropology
 - DE Sachbuch
